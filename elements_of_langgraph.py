@@ -35,8 +35,7 @@ and each worker contributes to its transformation, such as, attach a part, paint
 """
 
 """
-- Conditional edges are specialized connections that decide the next node to execute based on specific condition or logic 
-  applied to the current state.
+- Conditional edges are specialized connections that decide the next node to execute based on specific condition or logic applied to the current state.
 
 Analogy:
 Traffic Light:
@@ -56,7 +55,8 @@ Green means go, red means stop, yellow means slow down. The condition(light colo
 """
 
 """
-- Tools are specialized functions or utilities that nodes can utilize to perform specific tasks such as fetching data from API.
+- Tools are specialized functions or utilities that nodes can utilize to perform specific tasks such as fetching data
+  from API.
 
 - They enhance capabilities of nodes by providing additional functionalities.
 
